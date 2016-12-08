@@ -1,0 +1,6 @@
+Simple Ticket system
+
+- composer install
+- change database configuration
+- database migration and seed
+- login using test admin account: admin@clientcare.com / 123456
